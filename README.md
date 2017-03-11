@@ -1,6 +1,5 @@
 # RetrofitAnnotation
-retrofit 和 annotation Processor ，EventBus结合
-
+retrofit 和 annotation Processor ，EventBus结合使用的一个简单示例
 用annotation processor 把Retrofit的接口生成Manager，如
 
 public final class ApiServiceManager extends BaseManager {
